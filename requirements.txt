@@ -1,0 +1,7 @@
+pandas
+matplotlib
+tweet-preprocessor
+gensim
+sklearn
+kaggle
+zipfile
