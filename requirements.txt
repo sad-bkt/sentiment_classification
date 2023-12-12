@@ -1,7 +1,7 @@
+jupyter
 pandas
 matplotlib
 tweet-preprocessor
 gensim
 scikit-learn
 kaggle
-zipfile
