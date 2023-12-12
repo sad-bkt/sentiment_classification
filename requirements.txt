@@ -2,6 +2,6 @@ pandas
 matplotlib
 tweet-preprocessor
 gensim
-sklearn
+scikit-learn
 kaggle
 zipfile
