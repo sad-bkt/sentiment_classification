@@ -25,3 +25,5 @@
 |--------------------|----------|
 | DummyClassifier    | 0.5      |
 | LogisticRegression | 0.6      |
+| SVM                | 0.6      |
+| RandomForest       | 0.6      |

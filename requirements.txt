@@ -5,3 +5,4 @@ tweet-preprocessor
 gensim
 scikit-learn
 kaggle
+optuna
