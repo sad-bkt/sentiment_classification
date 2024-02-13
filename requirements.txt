@@ -5,3 +5,7 @@ tweet-preprocessor
 gensim
 scikit-learn
 kaggle
+optuna
+wordcloud
+plotly-express
+spacy
